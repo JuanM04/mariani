@@ -8,6 +8,27 @@ Para empezar, todo, generalmente, se mide en **milímetros**. Es la medida por d
 
 Además del milímetro, está la **pulgada**. Su símbolo es `"` y equivale a 25,4mm.
 
+### Conversión
+
+$$
+25,4 * \frac{3}{4} = 25,4 * 3 : 4 = 19,05
+$$
+> Pasar 3/4" a milímetros
+
+$$
+25,4 *
+\color{blue} 1
+\color{red} \frac{3}{8}
+\color{black} =
+\color{blue} (25,4 * 1)
+\color{black} +
+\color{red} (25,4 * 3 : 8)
+\color{black} = 34,925
+$$
+> Pasar 1 3/8" a milímetros
+
+![Tabla de conversión](http://www.provindus.com.py/wp-content/uploads/2017/02/tablapulgadas.jpg)
+
 ## Calibre
 
 El **calibre** es un instrumento de medición que mide en milímetros.
