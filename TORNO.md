@@ -1,5 +1,7 @@
 ﻿# Torno
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MYCtjxKyNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Partes
 ![Partes](http://www.indumetan.com/wp-content/uploads/2014/06/el-torno-partes-definicion.jpg)
 
@@ -8,6 +10,10 @@
 ![Plato](http://swedmaq.cl/5049/plato-torno-k11-250mm-3-garras-universal.jpg)
 
 ![Plato 2](https://www.monografias.com/trabajos38/torneado-excentrico/Image9428.gif)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4v79VbPoSBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mlKIYv_rjgo?start=125&end=615" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Puntos
 
